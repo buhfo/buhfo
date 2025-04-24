@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<p align="left">Student and Game Developer<br>President of UVU Game Development Club<br><br>Currently working on PUG: Dogs day, a survival horror FPS. Check out my YouTube to learn more!</p>
+<p align="left">Student and Game Developer<br>President of UVU Game Development Club<br><br>Currently working on PUG: Dogs day, a survival horror FPS. Check out my YouTube to learn more!<br><br>Check out my Itch.io page to see some of my games!<br><br><br> NOTE! My repositories for the scripting essentials class are split into two parts! So sorry about that!</p>
 
 ###
 
