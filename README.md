@@ -1,9 +1,5 @@
 <h2 align="left">Hi, im Quinn Johnston, a.k.a Buhfo</h2>
 
-![IMG_5649](https://github.com/user-attachments/assets/3ee55902-2f2b-477a-9a8a-197a6c4d7ff3)
-![PFP](https://github.com/user-attachments/assets/36000b17-4288-4e7e-9192-340e7362be1e)
-
-
 ###
 
 <div align="center">
